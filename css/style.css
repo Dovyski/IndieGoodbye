@@ -1,5 +1,5 @@
  body {
-  padding-top: 20px;
+  padding-top: 2px;
   padding-bottom: 40px;
 }
 
@@ -155,4 +155,16 @@ h4 {
 	float: left;
 	margin-right: 3%;
 	margin-left: 4%;
+}
+
+.social-stuff {
+	clear: both !important;
+}
+
+
+@media (max-width: 530px) {
+	.forkit-curtain, .forkit {
+		position: absolute;
+		display:none;
+	}
 }

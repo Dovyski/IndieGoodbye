@@ -129,6 +129,8 @@ h4 {
    padding:1px;
    border: 4px solid #0c0c0c;
    background-color: #000;
+   width: 144px;
+   height: 144px;
 }
 
 .forkit-curtain {
